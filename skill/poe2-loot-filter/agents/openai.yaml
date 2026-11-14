@@ -1,0 +1,4 @@
+interface:
+  display_name: "PoE2 Loot Filter"
+  short_description: "Edit, migrate, and price-tier PoE2 loot filters"
+  default_prompt: "Use $poe2-loot-filter to update my Path of Exile 2 loot filter."
