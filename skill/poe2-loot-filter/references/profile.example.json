@@ -1,0 +1,12 @@
+{
+  "region": null,
+  "league": null,
+  "mode": null,
+  "target_filters": [],
+  "market": {
+    "source": null,
+    "quote_currency": null,
+    "tier_thresholds": {}
+  },
+  "manual_overrides": []
+}
